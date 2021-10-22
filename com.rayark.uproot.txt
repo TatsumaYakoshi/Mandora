@@ -1,0 +1,25 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+Mandora Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+infinite Golden Leafs
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"phoebe_offline.json"}
+
+{"to":"data/data/com.rayark.uproot/app_data/phoebe_offline.json"}
+[END]
+
+Save Edited Enjoy 
